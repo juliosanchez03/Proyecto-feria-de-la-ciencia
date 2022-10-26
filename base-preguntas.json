@@ -1,0 +1,2140 @@
+[
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "¿Quién pintó la mona lisa?",
+        "respuesta": "Leonardo da Vinci",
+        "incorrecta1": "Picasso",
+        "incorrecta2": "Miguel Ángel",
+        "incorrecta3": "Monet",
+        "imagen":"https://i.ibb.co/9cjvmw1/mona-lisa.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Pintor de  \"El jardín de las delicias\"",
+        "respuesta": "El Bosco",
+        "incorrecta1": "Velásquez",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Dalí\r",
+        "imagen":"https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "significado de  \"El jardín de las delicias\"",
+        "respuesta": "Mundo Terrenal",
+        "incorrecta1": "Es Mejor Morir",
+        "incorrecta2": "Dios Es El Camino",
+        "incorrecta3": "Adán Y Eva\r",
+        "imagen": "https://i.ibb.co/SDjX7PM/jardin-de-las-delicias.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Ciudad fetiche del escritor Paul Auster",
+        "respuesta": "Nueva York",
+        "incorrecta1": "París",
+        "incorrecta2": "Ámsterdam",
+        "incorrecta3": "Bogotá\r",
+        "imagen":"https://i.ibb.co/zfM2Vyd/paul-auster.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Escritor de \"El viejo y el mar\"",
+        "respuesta": "Ernest Hemingway",
+        "incorrecta1": "Julio Verne",
+        "incorrecta2": "Gabriel García Márquez",
+        "incorrecta3": "Ernesto Sábato\r",
+        "imagen":"https://i.ibb.co/WHd1NnL/el-viejo-y-el-mar.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Vivía en el 221B de Backer Street.",
+        "respuesta": "Sherlock Holmes",
+        "incorrecta1": "Katniss Everdeen",
+        "incorrecta2": "Hermione Jean Granger",
+        "incorrecta3": "Harry James Potter \r",
+        "imagen":"https://i.ibb.co/SPqsRyx/221b.jpg"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Género al que pertenece la novela \"La historia del ojo\" de George Bataille",
+        "respuesta": "Erótico",
+        "incorrecta1": "Drama",
+        "incorrecta2": "Terror",
+        "incorrecta3": "Suspenso\r",
+        "imagen":"https://i.ibb.co/dgfv8zK/el-ojo.gif"
+    },
+    {
+        "categoria": "Arte y literatura",
+        "pregunta": "Es una figura clave del dadaísmo y el surrealismo.",
+        "respuesta": "Max Ernst",
+        "incorrecta1": "Pablo Picasso",
+        "incorrecta2": "Vincent Van Gogh",
+        "incorrecta3": "Claude Monet\r",
+        "imagen":"https://i.ibb.co/dLw3jng/Dada-min-e1533749290497.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Función principal del intestino grueso",
+        "respuesta": "Absorción De Agua",
+        "incorrecta1": "Producción De Insulina",
+        "incorrecta2": "Producción De Glucógeno",
+        "incorrecta3": "Producción Del Jugo Pancreático\r",
+        "imagen": "https://i.ibb.co/pJ8q4JB/image.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de estado ocurre en la sublimación.",
+        "respuesta": "Solido A Gaseoso",
+        "incorrecta1": "Gaseoso A Solido",
+        "incorrecta2": "Solido A Liquido",
+        "incorrecta3": "Liquido A Gaseoso\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "Cambio de sólido a gaseoso.",
+        "respuesta": "Sublimación",
+        "incorrecta1": "Cohesión",
+        "incorrecta2": "Evaporación",
+        "incorrecta3": "Condensación\r",
+        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": " Órgano del cuerpo humano produce la bilis.",
+        "respuesta": "Hígado",
+        "incorrecta1": "Páncreas",
+        "incorrecta2": "Estomago",
+        "incorrecta3": "Riñón\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Dónde vive el delfín rosado?",
+        "respuesta": "En Brasil",
+        "incorrecta1": "En Oceanía",
+        "incorrecta2": "Solo En Aguas Cálidas",
+        "incorrecta3": "Solo En Aguas Muy Frías\r",
+      "imagen": "https://i.ibb.co/RTffJbX/d.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿En qué lugar del cuerpo se produce la insulina?",
+        "respuesta": "Páncreas",
+        "incorrecta1": "Hígado",
+        "incorrecta2": "Intestino",
+        "incorrecta3": "Riñón\r",
+      "imagen": "https://i.ibb.co/31Fhj8j/000.jpg"
+    },
+    {
+        "categoria": "Ciencia y técnologia",
+        "pregunta": "¿Cómo se llama a los electrones que se encuentran en la última capa del átomo?",
+        "respuesta": "Electrones De Valencia",
+        "incorrecta1": "Electrones",
+        "incorrecta2": "Iones",
+        "incorrecta3": "Isotopos\r",
+      "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Reina de las Amazonas, que hizo la guerra a los Atlantes, después combatió a las Gorgonas y realizó innumerables hazañas.",
+        "respuesta": "Mirina",
+        "incorrecta1": "Flora",
+        "incorrecta2": "Belona",
+        "incorrecta3": "Hades\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Diosa de la vegetación, de los jardines y de la primavera.",
+        "respuesta": "Flora",
+        "incorrecta1": "Belona",
+        "incorrecta2": "Hades",
+        "incorrecta3": "Mirina\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Diosa de la guerra, hermana o esposa de Marte.",
+        "respuesta": "Belona",
+        "incorrecta1": "Otea",
+        "incorrecta2": "Colosa",
+        "incorrecta3": "Mirina\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ser de doble naturaleza, masculina y femenina, hijo de Hermes y de Afrodita. De origen sirio, su creencia transitó por Chipre antes de llegar a Grecia. Figura a menudo entre los compañeros de Dioniso.",
+        "respuesta": "Hermafrodita",
+        "incorrecta1": "Belona",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Colosa\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Dios de los Infiernos, hijo de Cronos y de Rea. Al vencer los dioses a los Titanes, fue condenado a reinar sobre los muertos.",
+        "respuesta": "Hades",
+        "incorrecta1": "Zeus",
+        "incorrecta2": "Odin",
+        "incorrecta3": "Thor\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ninfa de Arcadia, compañera de Artemisa. Amada por Zeus, fue transformada en osa por Artemisa, por Hera o por el propio Zeus. Fue muerta por Artemisa en una cacería. Zeus hizo de ella la constelación de la Osa Mayor.",
+        "respuesta": "Calisto",
+        "incorrecta1": "Otea",
+        "incorrecta2": "Belona",
+        "incorrecta3": "Mirina\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Ninfas del mar, hijas de Nereo y de Doris. Eran tradicionalmente 50 hermanas, las más conocidas de las cuales son Anfitrite, Tetis y Galatea. Personificaban los aspectos placenteros del mar.",
+        "respuesta": "Nereidas",
+        "incorrecta1": "Calisto",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Belona\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Estimación excesiva de sí mismo en menosprecio de los demás. # Exceso de magnificencia o suntuosidad. # Grandioso, magnífico. # Grande o de grandes proporciones. # Fogoso, orgulloso, violento.",
+        "respuesta": "Soberbia",
+        "incorrecta1": "Sinismo",
+        "incorrecta2": "Ensimismado",
+        "incorrecta3": "Amado\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se le denomina al \"fobia al 666\"?",
+        "respuesta": "Hexakosioihexekontahexafobia",
+        "incorrecta1": "Triskaidekafobia",
+        "incorrecta2": "Tafofobia",
+        "incorrecta3": "Trezidavomartiofobia\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cómo se le denomina al \"odio a los pobres.\"?",
+        "respuesta": "Aporofobia",
+        "incorrecta1": "Poorfobia",
+        "incorrecta2": "Tafofobia",
+        "incorrecta3": "Trezidavomartiofobia\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Personaje alegórico al que se representaba, en los Infiernos, trenzando una cuerda que iba siendo devorada por una burra.",
+        "respuesta": "Ocno",
+        "incorrecta1": "Otea",
+        "incorrecta2": "Calisto",
+        "incorrecta3": "Nereidas\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Diosa de la fecundidad y de la abundancia. Se la identificó con las diosas Rea y Cibeles. Tenía un santuario en el Foro.",
+        "respuesta": "Ops",
+        "incorrecta1": "Ocno",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Calisto\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Nombre dado a unas razas del sur de Egipto, en las fuentes del Nilo y, a veces, en la India, caracterizadas por su escasa estatura.",
+        "respuesta": "Pigmeos",
+        "incorrecta1": "Ocno",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Calisto\r"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Hermana de Leto y madre de Hécate. Se resistió a Zeus, quien la transformó en codorniz. Se arrojó al mar, en donde se convirtió en la isla de Ortigia, llamada luego Delos.",
+        "respuesta": "Asteria",
+        "incorrecta1": "Ocno",
+        "incorrecta2": "Otea",
+        "incorrecta3": "Calisto\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "Dioses mellizos, hijos de Zeus y de Talía, surgidos del seno de la Tierra. Su culto estaba vinculado con las erupciones volcánicas en la región del Etna.",
+        "respuesta": "Palicos",
+        "incorrecta1": "Ops",
+        "incorrecta2": "Ocno",
+        "incorrecta3": "Otea\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿De qué fue ministro Manuel Fraga durante el franquismo?",
+        "respuesta": "De Información Y Turismo",
+        "incorrecta1": "De Interior",
+        "incorrecta2": "De Economía",
+        "incorrecta3": "Del Ejército\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Las revueltas de dónde son llamadas Intifadas?",
+        "respuesta": "Palestina",
+        "incorrecta1": "Montenegro",
+        "incorrecta2": "Kosovo",
+        "incorrecta3": "Chechenia\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " La Comuna de París fue un movimiento...",
+        "respuesta": "Insurreccional Autogestionario Del XIX",
+        "incorrecta1": "Del Mayo De 68",
+        "incorrecta2": "Hippie De Los Años 60",
+        "incorrecta3": "De La Revolución Francesa\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿A qué dirigente latinoamericano mandó callar Juan Carlos de Borbón?",
+        "respuesta": "Hugo Chávez",
+        "incorrecta1": "Evo Morales",
+        "incorrecta2": "Fidel Castro",
+        "incorrecta3": "Rafael Correa\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quiénes fueron los sans-culottes de la Revolución Francesa?",
+        "respuesta": "La Principal Masa Social Revolucionaria",
+        "incorrecta1": "La Burguesía Durante La Revolución",
+        "incorrecta2": "El Nombre Despectivo De Los Burgueses",
+        "incorrecta3": "Ninguna Es Correcta\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Con qué hecho histórico relacionarías al \"hombre del tanque\" o \"rebelde desconocido\"?",
+        "respuesta": "Protestas De Plaza Tian'anmen, Pekín",
+        "incorrecta1": "Protestas De Plaza Tahrir, El Cairo",
+        "incorrecta2": "Protestas De Plaza Del Sol, Madrid",
+        "incorrecta3": "Protestas De Plaza De Mayo, Buenos Aires\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué otro nombre recibió el período de la Gran Hambruna China?",
+        "respuesta": "Todas Son Correctas",
+        "incorrecta1": "Tres Años De Desastres Naturales",
+        "incorrecta2": "Tres Años De Dificultades Económicas",
+        "incorrecta3": "Tres Años Amargos\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos soldados argentinos murieron en la Guerra de las Malvinas?",
+        "respuesta": "649",
+        "incorrecta1": "200",
+        "incorrecta2": "987",
+        "incorrecta3": "1452\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuál es la ciudad más antigua de América Latina?",
+        "respuesta": "Caral",
+        "incorrecta1": "Valparaíso",
+        "incorrecta2": "Arequipa",
+        "incorrecta3": "La Paz\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿A qué presidente ceso el rey Alfonso XIII tras las reacciones que sucedieron a la Semana Trágica?",
+        "respuesta": "Antonio Maura",
+        "incorrecta1": "Eduardo Dato",
+        "incorrecta2": "Segismundo Moret",
+        "incorrecta3": "Cánovas Del Castillo\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién pronunció la frase: \"Bebamos de la copa de la destrucción\"?",
+        "respuesta": "Gengis Kan",
+        "incorrecta1": "Margaret Tatcher",
+        "incorrecta2": "Mussolini",
+        "incorrecta3": "Berlusconi\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿En qué partido se organizan hoy los carlistas?",
+        "respuesta": "Comunión Tradicionalista Carlista",
+        "incorrecta1": "Partido Carlista",
+        "incorrecta2": "Ambas Son Correctas",
+        "incorrecta3": "Ninguna Es Correcta\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué país fue dirigido por Stalin?",
+        "respuesta": "Unión Soviética",
+        "incorrecta1": "Cuba",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Polonia\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cuántos siglos duró el Siglo de Oro?",
+        "respuesta": "Dos",
+        "incorrecta1": "Uno",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Medio\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué fue Dracón?",
+        "respuesta": "Legislador",
+        "incorrecta1": "Comerciante",
+        "incorrecta2": "Médico",
+        "incorrecta3": "Guerrero\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo murió Jacques de Molay, último gran maestre templario?",
+        "respuesta": "En La Hoguera",
+        "incorrecta1": "Envenenado",
+        "incorrecta2": "De Risa",
+        "incorrecta3": "Enfermedad\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién es el actual presidente de México (2014)?",
+        "respuesta": "Enrique Peña Nieto",
+        "incorrecta1": "Felipe Calderón Hinojosa",
+        "incorrecta2": "Hugo Chávez",
+        "incorrecta3": "Vicente Fox\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién liberó a Argentina, Chile y Perú?",
+        "respuesta": "José De San Martín",
+        "incorrecta1": "Ernesto 'Che' Guevara",
+        "incorrecta2": "Manual Belgrano",
+        "incorrecta3": "Simón Bolívar\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Dónde surgió la filosofía?",
+        "respuesta": "Grecia",
+        "incorrecta1": "España",
+        "incorrecta2": "Egipto",
+        "incorrecta3": "Japón\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Para qué fue creado el plan Marshall en 1947?",
+        "respuesta": "Reconstrucción",
+        "incorrecta1": "Regalo",
+        "incorrecta2": "Conquista",
+        "incorrecta3": "Comercio\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Quién fue galardonado con el premio Nobel de la Paz en 2007?",
+        "respuesta": "Albert Gore",
+        "incorrecta1": "Albert Einstein",
+        "incorrecta2": "Albert Schweitzer",
+        "incorrecta3": "Albert Van Bommel\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo llamaban a Dios los testigos de Jehová?",
+        "respuesta": "Jehová",
+        "incorrecta1": "Mutante",
+        "incorrecta2": "Buda",
+        "incorrecta3": "Jesús\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llama la sustancia que se utiliza en la Iglesia para hacer mucho humo?",
+        "respuesta": "Incienso",
+        "incorrecta1": "Vino",
+        "incorrecta2": "Carbón",
+        "incorrecta3": "Aceite\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Qué modelo de Estado se propugna en la Constitución española?",
+        "respuesta": "Estado Social Y Democrático De Derecho",
+        "incorrecta1": "Estado Federal",
+        "incorrecta2": "Estado De Derecho",
+        "incorrecta3": "Estado Liberal\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": " ¿Cómo se llama la capital del antiguo imperio azteca?",
+        "respuesta": "Tenochtitlan",
+        "incorrecta1": "Culhuacán",
+        "incorrecta2": "Quetzalcóatl",
+        "incorrecta3": "Texcoco\r",
+        "imagen":"https://conceptoabc.com/wp-content/uploads/2021/09/Historia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Con cuántos países limita Argentina?",
+        "respuesta": "5",
+        "incorrecta1": "4",
+        "incorrecta2": "3",
+        "incorrecta3": "2\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué es la UA?",
+        "respuesta": "Unión Africana",
+        "incorrecta1": "Unión Austrohúngara",
+        "incorrecta2": "Unión Americana",
+        "incorrecta3": "Unión Afroamericana\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Suiza?",
+        "respuesta": "Berna",
+        "incorrecta1": "Zúrich",
+        "incorrecta2": "Ginebra",
+        "incorrecta3": "Basilea\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué separa las franjas de Gaza y Cisjordania?",
+        "respuesta": "Israel",
+        "incorrecta1": "Un Río",
+        "incorrecta2": "Nada",
+        "incorrecta3": "Un Muro\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país está Ushuaia, la ciudad más al sur del mundo?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Sudáfrica",
+        "incorrecta3": "Nueva Zelanda\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de estos países africanos no tiene costa?",
+        "respuesta": "Todas Tienen Costa",
+        "incorrecta1": "Gambia",
+        "incorrecta2": "Senegal",
+        "incorrecta3": "Mauritania\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué se dividen las rupias indias y pakistanís?",
+        "respuesta": "En Paisas",
+        "incorrecta1": "En Peniques",
+        "incorrecta2": "En Céntimos",
+        "incorrecta3": "En Centavos\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes islas está más al sur?",
+        "respuesta": "Malta",
+        "incorrecta1": "Sicilia",
+        "incorrecta2": "Córcega",
+        "incorrecta3": "Cerdeña\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes ciudades no es una ciudad santa?",
+        "respuesta": "Burgos",
+        "incorrecta1": "Asís",
+        "incorrecta2": "Hebrón",
+        "incorrecta3": "Santiago De Compostela\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Baréin? ",
+        "respuesta": "Manama",
+        "incorrecta1": "Ammán",
+        "incorrecta2": "Riad",
+        "incorrecta3": "Bahréin\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país está la Laguna Verde? ",
+        "respuesta": "Bolivia",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Argentina",
+        "incorrecta3": "Todas Son Correctas\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué cordillera están la mayoría de las grandes montañas? ",
+        "respuesta": "En El Himalaya",
+        "incorrecta1": "En Los Andes",
+        "incorrecta2": "En Las Montañas Rocosas",
+        "incorrecta3": "En El Karakórum\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué ciudad europea es famosa por la belleza de su parlamento? ",
+        "respuesta": "Budapest",
+        "incorrecta1": "París",
+        "incorrecta2": "Madrid",
+        "incorrecta3": "Praga\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Libia? ",
+        "respuesta": "Trípoli",
+        "incorrecta1": "Beirut",
+        "incorrecta2": "El Cairo",
+        "incorrecta3": "Riad\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Entre qué dos países está el lago Titicaca?",
+        "respuesta": "Bolivia Y Perú",
+        "incorrecta1": "Bolivia Y Paraguay",
+        "incorrecta2": "Bolivia Y Brasil",
+        "incorrecta3": "Bolivia Y Argentina\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de la república de Macedonia?",
+        "respuesta": "Skopie",
+        "incorrecta1": "La Valeta",
+        "incorrecta2": "Chisinau",
+        "incorrecta3": "Sarajevo\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿A qué país pertenece la isla Mujeres?",
+        "respuesta": "México",
+        "incorrecta1": "Argentina",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "Chile\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué país es bañado por la Bahía de Hudson? ",
+        "respuesta": "Canadá",
+        "incorrecta1": "Estados Unidos",
+        "incorrecta2": "Reino Unido",
+        "incorrecta3": "Rep. De Irlanda\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Qué país africano fue antigua colonia española?",
+        "respuesta": "Guinea Ecuatorial",
+        "incorrecta1": "Sudáfrica",
+        "incorrecta2": "Egipto",
+        "incorrecta3": "R.D. Congo\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué continente/s se encuentra Turquía? ",
+        "respuesta": "Asia Y Europa",
+        "incorrecta1": "África Y Europa",
+        "incorrecta2": "Oceanía",
+        "incorrecta3": "América\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la religión mayoritaria en China?",
+        "respuesta": "Budismo",
+        "incorrecta1": "Taoísmo",
+        "incorrecta2": "Confucianismo",
+        "incorrecta3": "Cristianismo\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué mar desemboca el rio Segura?",
+        "respuesta": "Mar Mediterráneo",
+        "incorrecta1": "Mar Báltico",
+        "incorrecta2": "Mar Cantábrico",
+        "incorrecta3": "Ninguna Es Correcta\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Que accidente geográfico se define como una pendiente vertical abrupta?",
+        "respuesta": "Un Acantilado",
+        "incorrecta1": "Un Barranco",
+        "incorrecta2": "Una Montaña",
+        "incorrecta3": "Un Puente\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el edificio más famoso en Dubai? ",
+        "respuesta": "Burj Al Arab",
+        "incorrecta1": "Crosgrove",
+        "incorrecta2": "Crystal Island",
+        "incorrecta3": "Torre Eiffel\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde se encuentra el Cerro Uritorco, conocido por sus avistamientos a O.V.N.I.S.? ",
+        "respuesta": "Capilla Del Monte, Córdoba",
+        "incorrecta1": "Santiago, Chile",
+        "incorrecta2": "Logroño, España",
+        "incorrecta3": "La Banda, Santiago Del Estero\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde está el desierto del Gobi? ",
+        "respuesta": "Al Sur De Mongolia",
+        "incorrecta1": "Al Sur De China",
+        "incorrecta2": "Al Sur De Japón",
+        "incorrecta3": "Ninguna Es Correcta\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde se encuentra Baiona?",
+        "respuesta": "Pontevedra",
+        "incorrecta1": "Francia",
+        "incorrecta2": "País Vasco",
+        "incorrecta3": "Andalucía\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿A qué país pertenece la Isla de Pascua?",
+        "respuesta": "Chile",
+        "incorrecta1": "Indonesia",
+        "incorrecta2": "Australia",
+        "incorrecta3": "Es Un País\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué país de África es el español el idioma oficial? ",
+        "respuesta": "Ghana",
+        "incorrecta1": "Guinea Ecuatorial",
+        "incorrecta2": "Gabón",
+        "incorrecta3": "Camerún\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Argelia? ",
+        "respuesta": "Argel",
+        "incorrecta1": "Colombo",
+        "incorrecta2": "Arabia",
+        "incorrecta3": "Argela\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde está la isla más joven del mundo, nacida en 2011 producto de una erupción volcánica? ",
+        "respuesta": "En Yemen",
+        "incorrecta1": "En Omán",
+        "incorrecta2": "En La Polinesia Francesa",
+        "incorrecta3": "En Australia\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿En qué continente está la India?",
+        "respuesta": "Asia",
+        "incorrecta1": "Antártida",
+        "incorrecta2": "América",
+        "incorrecta3": "Oceanía\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital del estado de California? ",
+        "respuesta": "Sacramento",
+        "incorrecta1": "Los Ángeles",
+        "incorrecta2": "San Diego",
+        "incorrecta3": "San Francisco\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es el mayor golfo de Africa? ",
+        "respuesta": "El De Guinea",
+        "incorrecta1": "Ninguna Es Correcta",
+        "incorrecta2": "El De Gabés",
+        "incorrecta3": "El De Sirte\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cúales son las ciudades autónomas de España?",
+        "respuesta": "Ceuta Y Melilla",
+        "incorrecta1": "Ceuta Y Villa Sanjurjo",
+        "incorrecta2": "Melilla Y Nador",
+        "incorrecta3": "Melilla Y Alhucemas\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cúal es la capital de Alemania?",
+        "respuesta": "Berlín",
+        "incorrecta1": "Múnich",
+        "incorrecta2": "Frankfurt",
+        "incorrecta3": "Dublín\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde está la ciudad de Mostar?",
+        "respuesta": "Bosnia Y Herzegovina",
+        "incorrecta1": "Serbia",
+        "incorrecta2": "Montenegro",
+        "incorrecta3": "Croacia\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿De dónde es capital Thimbu?",
+        "respuesta": "De Bután",
+        "incorrecta1": "De Thimbu",
+        "incorrecta2": "De Nepal",
+        "incorrecta3": "Ninguna Es Correcta\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál es la capital de Ecuador? ",
+        "respuesta": "Quito",
+        "incorrecta1": "Lima",
+        "incorrecta2": "Bogotá",
+        "incorrecta3": "Guayaquil\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de estos países no está en una isla? ",
+        "respuesta": "Ghana",
+        "incorrecta1": "Japón",
+        "incorrecta2": "Jamaica",
+        "incorrecta3": "Madagascar\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las siguientes ciudades sudafricanas es la más poblada? ",
+        "respuesta": "Johannesburgo",
+        "incorrecta1": "Ciudad Del Cabo",
+        "incorrecta2": "Pretoria",
+        "incorrecta3": "East London\r","imagen":"https://t5z6q4c2.rocketcdn.me/wp-content/uploads/2020/04/o-que-e-geografia-conceitos-areas-de-estudo-e-importancia.jpg"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Cuál de las grandes montañas ha sido estalada más veces?",
+        "respuesta": "El Everest",
+        "incorrecta1": "El K2",
+        "incorrecta2": "El Annapurna I",
+        "incorrecta3": "El Annapurna II\r",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxl86fDer0mXFh8Qp0oVOwRa5atxxzMT_cDLOkl7gMDNeT-D9AiyxcnsGRK2qenJf6Y88&usqp=CAU"
+    },
+    {
+        "categoria": "Geografía",
+        "pregunta": "¿Dónde queda el monumento a la mitad del mundo?",
+        "respuesta": "Quito",
+        "incorrecta1": "Bogotá",
+        "incorrecta2": "Lima",
+        "incorrecta3": "Manaos\r",
+        "imagen":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxl86fDer0mXFh8Qp0oVOwRa5atxxzMT_cDLOkl7gMDNeT-D9AiyxcnsGRK2qenJf6Y88&usqp=CAU"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué jugadora de hockey sobre césped ha ganado 7 veces el premio a la mejor jugadora del mundo de 2013?",
+        "respuesta": "Luciana Aymar",
+        "incorrecta1": "Natascha Keller",
+        "incorrecta2": "Alyson Annan",
+        "incorrecta3": "Maartje Paumen\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién marcó el gol 3.500 en Liga del Atlético de Madrid?",
+        "respuesta": "Christian Vieri",
+        "incorrecta1": "Zinedine Zidane",
+        "incorrecta2": "Luka Modric",
+        "incorrecta3": "Adrián Escudero\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos mangos por lado tiene el futbolín?",
+        "respuesta": "Cuatro",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Cinco\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuál es el estilo de natación más rápido?",
+        "respuesta": "Crol",
+        "incorrecta1": "Espalda",
+        "incorrecta2": "Mariposa",
+        "incorrecta3": "Pecho\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos jugadores componen un equipo de rugby?",
+        "respuesta": "15",
+        "incorrecta1": "11",
+        "incorrecta2": "12",
+        "incorrecta3": "21\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuántas puntas de cada color hay en un tablero de backgammon?",
+        "respuesta": "Doce",
+        "incorrecta1": "Catorce",
+        "incorrecta2": "Ocho",
+        "incorrecta3": "Dieciséis\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿En qué país se inventó el voleibol?",
+        "respuesta": "Estados Unidos",
+        "incorrecta1": "Gran Bretaña",
+        "incorrecta2": "Francia",
+        "incorrecta3": "Rusia\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuál de las siguientes modalidades no forma parte del deporte rural vasco?",
+        "respuesta": "Desintegramiento De Piedra",
+        "incorrecta1": "Arrastre De Piedra",
+        "incorrecta2": "Lanzamiento De Fardo",
+        "incorrecta3": "Corte De Troncos\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué tienen en común Ty Cobb, Cy Young y Roberto Clemente?",
+        "respuesta": "Son Jugadores De Béisbol",
+        "incorrecta1": "Son Jugadores De Fútbol",
+        "incorrecta2": "Son Jugadores De Baloncesto",
+        "incorrecta3": "Son Jugadores De Golf\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Copa Mundial de Rugby en 2015?",
+        "respuesta": "Inglaterra",
+        "incorrecta1": "Australia",
+        "incorrecta2": "Escocia",
+        "incorrecta3": "Gales\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué selección acumula mayor cantidad de expulsados en  mundiales de fútbol?",
+        "respuesta": "Argentina",
+        "incorrecta1": "Brasil",
+        "incorrecta2": "Italia",
+        "incorrecta3": "Camerún\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Quién inventó el arte marcial llamado Jeet Kune Do?",
+        "respuesta": "Bruce Lee",
+        "incorrecta1": "David Carradine",
+        "incorrecta2": "Kato Mimoko",
+        "incorrecta3": "Ninguna Es Correcta\r"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué deporte es el longboard una de las modalidades?",
+        "respuesta": "Skateboard",
+        "incorrecta1": "Snowboard",
+        "incorrecta2": "Alpinismo",
+        "incorrecta3": "Surf\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿En qué deporte se destaca Jonny Wilkinson?",
+        "respuesta": "Rugby",
+        "incorrecta1": "Fútbol",
+        "incorrecta2": "Atletismo",
+        "incorrecta3": "Remo\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿De qué color es el cero en el cilindro de la ruleta?",
+        "respuesta": "Verde",
+        "incorrecta1": "Negro",
+        "incorrecta2": "Rojo",
+        "incorrecta3": "Blanco\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿A qué barrio porteño pertenece el club de fútbol San Lorenzo?",
+        "respuesta": "Boedo",
+        "incorrecta1": "La Boca",
+        "incorrecta2": "Liniers",
+        "incorrecta3": "Paternal\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto pesa aproximadamente una bola de bolera?",
+        "respuesta": "Siete Kilos Y Cuarto",
+        "incorrecta1": "5 Kilos Y Cuarto",
+        "incorrecta2": "Cuatro Kilos Y Medio",
+        "incorrecta3": "Ocho Kilos Y Cuarto\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántos puntos valen un tiro libre encestado en baloncesto?",
+        "respuesta": "Uno",
+        "incorrecta1": "Dos",
+        "incorrecta2": "Tres",
+        "incorrecta3": "Depende\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Qué tipo de competición es el Giro de Italia?",
+        "respuesta": "Una Carrera Ciclistica",
+        "incorrecta1": "Una Competición De Vela",
+        "incorrecta2": "Un Maratón",
+        "incorrecta3": "Una Carrera Automovilística\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuánto dura un partido de fútbol?",
+        "respuesta": "90 Minutos",
+        "incorrecta1": "45 Minutos",
+        "incorrecta2": "75 Minutos",
+        "incorrecta3": "80 Minutos\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Cuál es el segundo apellido de Gerad Piqué?",
+        "respuesta": "Bernabéu",
+        "incorrecta1": "Ninguna Es Correcta ",
+        "incorrecta2": "Vázquez ",
+        "incorrecta3": "Sibina\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Qué clase de peso en el boxeo está entre el peso gallo y el pe",
+        "respuesta": "Peso Pluma",
+        "incorrecta1": "Peso Mosca",
+        "incorrecta2": "Sobrepeso",
+        "incorrecta3": "Peso Ideal\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": "¿Cuántas cartas tiene una baraja inglesa?",
+        "respuesta": "52",
+        "incorrecta1": "40",
+        "incorrecta2": "48 ",
+        "incorrecta3": "50\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Deportes",
+        "pregunta": " ¿Dónde nació el Rugby?",
+        "respuesta": "Reino Unido",
+        "incorrecta1": "Canadá ",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Australia\r",
+        "imagen":"https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/10/15813555323272.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántos hijos tiene Jake?",
+        "respuesta": "0",
+        "incorrecta1": "1",
+        "incorrecta2": "2",
+        "incorrecta3": "5\r",
+        "imagen":"https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el corazón del Rey Helado?",
+        "respuesta": "Ricardio",
+        "incorrecta1": "Alejandro",
+        "incorrecta2": "No tiene corazon",
+        "incorrecta3": "Dave Jones\r",
+        "imagen":"https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿De quien esta enamorado Finn?",
+        "respuesta": "Princesa Flama",
+        "incorrecta1": "Dulce princesa",
+        "incorrecta2": "Marceline",
+        "incorrecta3": "De todas\r",
+        "imagen":"https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la dulce princesa?",
+        "respuesta": "Bonibel",
+        "incorrecta1": "Leyla",
+        "incorrecta2": "Belibom",
+        "incorrecta3": "Lillian\r",
+        "imagen":"https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "En el capitulo \"El rey gusano\" cuando Finn le dio la espalda al espejo ¿Qué sucedio?",
+        "respuesta": "El Linch se llevo al Finn alterno",
+        "incorrecta1": "Se convirtio en un monstruo",
+        "incorrecta2": "Aparecio Jake y lo llevo a la salida",
+        "incorrecta3": "Ninguna es correcto\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el creador de Dragon Ball?",
+        "respuesta": "Akira Toriyama",
+        "incorrecta1": "Akira Toniyama",
+        "incorrecta2": "Akira Calabazo",
+        "incorrecta3": "Rakia Inayarito\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cuando la princesa lodo le dice a Finn que quiere casarse con él ¿Qué le contesta Jake a ella para que se quite esa idea de la cabeza?",
+        "respuesta": "Que Finn se mea encima todo el tiempo",
+        "incorrecta1": "La verdad (Que Finn no se quiere casar con ella)",
+        "incorrecta2": "Que el que se quiere casar con ella es Jake",
+        "incorrecta3": "Que sufre de una terrible enfermedad y morira pronto\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llaman los dos protagonistas de hora de aventura?",
+        "respuesta": "Finn y Jake",
+        "incorrecta1": "Fionna y Cake",
+        "incorrecta2": "Jaque y Mate",
+        "incorrecta3": "Mario y Roberto\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuántos años tiene Finn?",
+        "respuesta": "13 años",
+        "incorrecta1": "No tiene edad ni por venir y ser feliz es su color de identidad.",
+        "incorrecta2": "15 Primaveras 15 Flores nuevas",
+        "incorrecta3": "Tiene la misma edad de Jake\r",
+        "imagen":"https://educacion30.b-cdn.net/wp-content/uploads/2022/04/cursos-de-algebra.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿En que país viven los protagonistas?",
+        "respuesta": "En el país de Ooo",
+        "incorrecta1": "En Colombia",
+        "incorrecta2": "En el País de nunca jamás",
+        "incorrecta3": "El el país del oro\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama la consola e video juegos que tiene Finn y Jake?",
+        "respuesta": "BMO",
+        "incorrecta1": "BIMO",
+        "incorrecta2": "No tiene nombre",
+        "incorrecta3": "BEEMO\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Que animal sale en todos los episodios de Hora de aventura aparte de Jake?",
+        "respuesta": "Un caracol saludando",
+        "incorrecta1": "Un pez de colores",
+        "incorrecta2": "Los tres cerditos",
+        "incorrecta3": "Solo jake ningun otro\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama Marceline cuando se convierte en un chico?",
+        "respuesta": "Marshall Lee",
+        "incorrecta1": "Vampirito Lee",
+        "incorrecta2": "Mare de Lee",
+        "incorrecta3": "Roberto 7u7\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo de llama la novia de Jake?",
+        "respuesta": "Lady Arcoiris",
+        "incorrecta1": "Madam Arcoiris",
+        "incorrecta2": "Miss Arcoiris",
+        "incorrecta3": "Jake no tiene novia\r",
+        "imagen": "https://poptaim.com/wp-content/uploads/2020/07/Hora1-1600x840.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Por qué dicen que Billy es Sascuash?",
+        "respuesta": "Por que se puso mucho tonico para el cabello",
+        "incorrecta1": "Mandy le pego una peluca gigante",
+        "incorrecta2": "Por que enveneno a Puro Hueso",
+        "incorrecta3": "Ninguna es correcta\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cuando billy  se compra un cereal que lo hace la fabrica de Eriz ¿Qué contiene adentro?",
+        "respuesta": "Un Fenix",
+        "incorrecta1": "Una manzana",
+        "incorrecta2": "Un retrato del Sr. Burns",
+        "incorrecta3": "Una serpiente\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el cazador de monstruos?",
+        "respuesta": "Rene-Gado",
+        "incorrecta1": "Lucas Manuel",
+        "incorrecta2": "Pancho-Villa",
+        "incorrecta3": "Elsin Ombre\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué es la novia de puro hueso?",
+        "respuesta": "Un gusano gigante",
+        "incorrecta1": "Un Zombie",
+        "incorrecta2": "Una Araña Gigante",
+        "incorrecta3": "Nunca tuvo novia\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se llama el papá de Billy?",
+        "respuesta": "Harold",
+        "incorrecta1": "Homer Josh Simpson",
+        "incorrecta2": "Camus",
+        "incorrecta3": "Peter\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿A que le tiene miedo billy?",
+        "respuesta": "A los payasos",
+        "incorrecta1": "A los arboles",
+        "incorrecta2": "A lo muerto",
+        "incorrecta3": "A los globos\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cómo se conocieron Billy y Mandy?",
+        "respuesta": "Billy fue a tocar la puerta de la casa de Mandy",
+        "incorrecta1": "Puro hueso los unio",
+        "incorrecta2": "Son hermanos",
+        "incorrecta3": "Se encontraron en la calle\r",
+        "imagen": "https://www.ramonacultural.com/wp-content/uploads/2020/08/F2-billy-y-mandy-800x460.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "La mamá de Billy hace ver a puro hueso en un episodio",
+        "respuesta": "Mansion Foster para amigos imaginarios",
+        "incorrecta1": "Las chicas superpoderosas",
+        "incorrecta2": "Los tres cerditos",
+        "incorrecta3": "Los padrinos magicos\r",
+        "imagen":"https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué juego le regala Marge a Bart Cuando roba un videojuego?",
+        "respuesta": "Golf",
+        "incorrecta1": "Transformers",
+        "incorrecta2": "GTA Vice City",
+        "incorrecta3": "Formula 1\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "En el especial de Halloween de la temporada 20 a que juegan los transformers con los humanos",
+        "respuesta": "Mete gol",
+        "incorrecta1": "Ping Pong",
+        "incorrecta2": "Solo se los comen",
+        "incorrecta3": "Golf\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué esta escrito en las escaleras de la comisaria?",
+        "respuesta": "El Barto",
+        "incorrecta1": "Bart estuvo aquí",
+        "incorrecta2": "Nada",
+        "incorrecta3": "El Homo\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Cuándo Marge es policia, que falsifica el que vende armas?",
+        "respuesta": "Jeans",
+        "incorrecta1": "Shorts",
+        "incorrecta2": "Casas",
+        "incorrecta3": "Documentos de identidad\r",
+        "imagen":"https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cuando aparece el antiguo novio de Marge y la lleva a su casa ¿De que era el Baile?",
+        "respuesta": "De los 80",
+        "incorrecta1": "Era un pogo Hardcore",
+        "incorrecta2": "No hubo baile",
+        "incorrecta3": "No la llevo a su casa\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿El la presentacion del especial de halloween de la temporada 20 por quien vota Homero?",
+        "respuesta": "Obama",
+        "incorrecta1": "Clinton",
+        "incorrecta2": "Le disparan antes de que vote",
+        "incorrecta3": "Voto en blanco\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Lo que mas come y toma Homero?",
+        "respuesta": "Cerveza y Donas",
+        "incorrecta1": "Cerveza y mani",
+        "incorrecta2": "Todo lo come por igual",
+        "incorrecta3": "Es Anorexico\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "¿Qué jugador de Futbol famoso aparece cuando Homero es Arbitro?",
+        "respuesta": "Cristiano",
+        "incorrecta1": "Messi",
+        "incorrecta2": "Rooney",
+        "incorrecta3": "Marradona\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Cantidad de hijos que tienen Homero y Marge",
+        "respuesta": "3",
+        "incorrecta1": "2",
+        "incorrecta2": "1",
+        "incorrecta3": "0\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Moe le compra una freidora al montar un restaurante familiar",
+        "respuesta": "A la marina norteamericana",
+        "incorrecta1": "Al presidente",
+        "incorrecta2": "A Homero",
+        "incorrecta3": "A Nelson\r",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Entretenimiento",
+        "pregunta": "Detalle facial que lleva el enemigo de Maggie",
+        "respuesta": "Solo tiene una ceja",
+        "incorrecta1": "No lleva chupete",
+        "incorrecta2": "Tiene barba",
+        "incorrecta3": "Un piercing",
+        "imagen": "https://media.gq.com.mx/photos/601047f419128da7b9d1b9c2/16:9/w_2560%2Cc_limit/Los%2520Simpson%2520-%2520GQ.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Periodo de vida de J. Kepler",
+        "respuesta": "(1571 - 1630)",
+        "incorrecta1": "(1672 - 1720)",
+        "incorrecta2": "(1420 - 1507)",
+        "incorrecta3": "Sigue con vida\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Famoso por una manzana que cayó en su cabeza",
+        "respuesta": "I Newton",
+        "incorrecta1": "G Leibniz",
+        "incorrecta2": "L'Hopital",
+        "incorrecta3": "M Agnesi\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿En qué año Newton Descubrió el calculo?",
+        "respuesta": "1665",
+        "incorrecta1": "1637",
+        "incorrecta2": "1728",
+        "incorrecta3": "1696\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Qué descubrio Kepler en 1609?",
+        "respuesta": "Las leyes del movimiento planetario",
+        "incorrecta1": "La geometria analitica",
+        "incorrecta2": "La integral de Kepler",
+        "incorrecta3": "El volumen del cilindro\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Que numero introdujo Euler",
+        "respuesta": "2,71828182845904523536028747135266249775…",
+        "incorrecta1": "1,41421356237309504880168872420969807856…",
+        "incorrecta2": "0",
+        "incorrecta3": "1.73205080756887729352744634150587236694…\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Este es el antiguo billete de 10 francos suizos ¿De quién es el retrato?",
+        "respuesta": "Euler",
+        "incorrecta1": "Bacón",
+        "incorrecta2": "Rieman",
+        "incorrecta3": "Fibonacci\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area del triangulo",
+        "respuesta": "½ab(senΘ)",
+        "incorrecta1": "2πr",
+        "incorrecta2": "πr²",
+        "incorrecta3": "bh\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area del triangulo",
+        "respuesta": "½bh",
+        "incorrecta1": "2πr",
+        "incorrecta2": "πr²",
+        "incorrecta3": "bh\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area del paralelogramo",
+        "respuesta": "bh",
+        "incorrecta1": "½bh",
+        "incorrecta2": "½bh",
+        "incorrecta3": "½ab(senΘ)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Circunferencia de un circulo",
+        "respuesta": "2πr",
+        "incorrecta1": "½bh",
+        "incorrecta2": "½bh",
+        "incorrecta3": "½ab(senΘ)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Area de un circulo",
+        "respuesta": "πr²",
+        "incorrecta1": "½bh",
+        "incorrecta2": "½bh",
+        "incorrecta3": "½ab(senΘ)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Qué es el radio?",
+        "respuesta": "es un segmento que une el centro con un punto de la circunferencia perimetral.",
+        "incorrecta1": "es un segmento que une dos puntos de la circunferencia sin pasar por su centro.",
+        "incorrecta2": "línea que hace parte y sobresale del círculo .",
+        "incorrecta3": "Es la recta que toca al círculo en un solo punto; es perpendicular al radio cuyo extremo es el punto de tangencia.\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Perímetro del Círculo",
+        "respuesta": "2πr",
+        "incorrecta1": "πr²",
+        "incorrecta2": "π²",
+        "incorrecta3": "Ninguna es correcta\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuánto vale el radio de la circunferencia goniométrica?",
+        "respuesta": "1",
+        "incorrecta1": "π²",
+        "incorrecta2": "3",
+        "incorrecta3": "cualquier numero real\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Que es π, (número pi)?",
+        "respuesta": "Es el cociente entre la longitud de la circunferencia y el diámetro",
+        "incorrecta1": "Es la relacion entre el diametro y el radio",
+        "incorrecta2": "El producto del Area con el perimetro",
+        "incorrecta3": "La raiz del radio\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Cuales son Paralelogramos rectángulos",
+        "respuesta": "El cuadrado y el rectangulo",
+        "incorrecta1": "El rombo y  el romboide",
+        "incorrecta2": "El triangulo equilatero y el triangulo isoseles",
+        "incorrecta3": "El cono y la esfera\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Cuales son Paralelogramos no rectángulos",
+        "respuesta": "El rombo y  el romboide",
+        "incorrecta1": "El cuadrado y el rectangulo",
+        "incorrecta2": "El triangulo equilatero y el triangulo isoseles",
+        "incorrecta3": "El cono y la esfera\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Cuál es la afirmacion verdadera?",
+        "respuesta": "Todo paralelogramo tiene cuatro vértices y cuatro lados ",
+        "incorrecta1": "os lados opuestos de un paralelogramo no son paralelos",
+        "incorrecta2": "La suma de los ángulos interiores de todo paralelogramo es siempre igual a 180°.",
+        "incorrecta3": "Todos los paralelogramos son concavos.\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz Cuadrada de 2",
+        "respuesta": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta1": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta2": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "π (Pi)",
+        "respuesta": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz Cuadrada de 3",
+        "respuesta": "1.73205080756887729352744634150587236694280525…",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta3": "2.23606797749978969640917366873127623544061835...\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz cuadrada de 5",
+        "respuesta": "2.23606797749978969640917366873127623544061835...",
+        "incorrecta1": "1,41421356237309504880168872420969807856967187…",
+        "incorrecta2": "3.14159265358979323846264338327950288419716939...",
+        "incorrecta3": "1.73205080756887729352744634150587236694280525…\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "φ (Phi)",
+        "respuesta": "1,6180339887498948482…",
+        "incorrecta1": "1,4142135623730950488…",
+        "incorrecta2": "3.1415926535897932384...",
+        "incorrecta3": "2.2360679774997896964...\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "e (Número de Euler o Constante de Napier)",
+        "respuesta": "2,71828182845904523536028747135266249775…",
+        "incorrecta1": "1,41421356237309504880168872420969807856…",
+        "incorrecta2": "3.14159265358979323846264338327950288419...",
+        "incorrecta3": "1.73205080756887729352744634150587236694…\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El número de Arquímedes",
+        "respuesta": "Ar",
+        "incorrecta1": "π",
+        "incorrecta2": "e",
+        "incorrecta3": "0\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "la constante de Arquímedes",
+        "respuesta": "π",
+        "incorrecta1": "Ar",
+        "incorrecta2": "senΘ",
+        "incorrecta3": "cosΘ\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Plantea el nombre y símbolo de este número π",
+        "respuesta": "Jones",
+        "incorrecta1": "Euler",
+        "incorrecta2": "Arquímedes",
+        "incorrecta3": "Ahmes\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Con que aproximacion Arquimedes calculo a  π",
+        "respuesta": "3(10/71) < π < 3(1/7)",
+        "incorrecta1": " π = 22/3",
+        "incorrecta2": "3 < π <3.2",
+        "incorrecta3": " π = 3.1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Referencia indirecta del valor aproximado de π en la biblia",
+        "respuesta": "I Reyes 7:23-24",
+        "incorrecta1": "Genesis. 5.1-32",
+        "incorrecta2": "Oración de Nehemías sobre Jerusalén",
+        "incorrecta3": "Jos. 15.15-19\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Referencia indirecta del valor aproximado de π en la biblia",
+        "respuesta": "II Crónicas 4:2",
+        "incorrecta1": "Salmo 42:5, 11; 43:5",
+        "incorrecta2": "Éxodo 14:14",
+        "incorrecta3": "Proverbios 3:5\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El día pi en el que los fans de este número lo celebran con diferentes actuaciones. ",
+        "respuesta": "El 14 de marzo",
+        "incorrecta1": "El día 22 de julio",
+        "incorrecta2": "El 24 de Diciembre",
+        "incorrecta3": "Ninguna es correcta\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Simulacion casi perfecta de π (Pi)",
+        "respuesta": "355/113",
+        "incorrecta1": "22/3",
+        "incorrecta2": "Raíz de 9,6",
+        "incorrecta3": "Ninguna es correcta\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Something Tells Me de la banda The Stone Roses termina así: \"What's the secret of life? It's _______, yeah yeah!!\" ¿Qué numero menciona?",
+        "respuesta": "3.14159265. π (Pi)",
+        "incorrecta1": "12345",
+        "incorrecta2": "1,61803398. φ (Phi)",
+        "incorrecta3": "√(-1)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "La probabilidad de que dos enteros positivos escogidos al azar sean primos entre si es…",
+        "respuesta": "6/(π²)",
+        "incorrecta1": "12 arctan(1/49) + 32 arctan(1/57) - 5 arctan(1/239)",
+        "incorrecta2": "1/2+1/3+1/5+1/7+….",
+        "incorrecta3": "ƒ(x) = 2x^e-1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El primer millón de cifras de π y su inversa 1/π se puede consultar en…",
+        "respuesta": "El Proyecto Gutenberg (Michael Hart en 1971)",
+        "incorrecta1": "Philosophiæ naturalis principia mathematica (Isaac Newton 1687)",
+        "incorrecta2": "Orígenes de la teoría general de la Relatividad (Einstein 1933)",
+        "incorrecta3": "El gran diseño (Libro de Stephen Hawking y Leonard Mlodinow 2010)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Existen programas en internet que buscan tu número de teléfono en las 50.000.000 primeras cifras de…",
+        "respuesta": "3.1415926535897932384… π (Pi)",
+        "incorrecta1": "1,6180339887498948482… φ (Phi)",
+        "incorrecta2": "1.7320508075688772935… √(3)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Un Hombre de nacionalidad Japonesa, El 4 de octubre de 2006, a la 1:30 de la madrugada, y tras 16 horas y media, volvió a romper su propio record recitando 100.000 dígitos del número pi. realizando una parada cada dos horas de 10 minutos para tomar aire.",
+        "respuesta": " Akira Haraguchi",
+        "incorrecta1": "Haruki Murakami",
+        "incorrecta2": "Takeshi Kitano",
+        "incorrecta3": "Kimura Takuya\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El máximo número de dígitos de π necesario para buscar cualquier secuencia de día-mes-año con cuatro dígitos en la expansión decimal de pi es",
+        "respuesta": "60.872.",
+        "incorrecta1": "100.000.",
+        "incorrecta2": "281.049.",
+        "incorrecta3": "1.026.592.\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "En que país el número telefónico móvil para emergencias en estaciones de trenes y subterráneos es ∗31416. π (Pi)",
+        "respuesta": "Argentina",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Japón",
+        "incorrecta3": "Colombia\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se considera como La Divina Proporción",
+        "respuesta": "1,6180339887498948482… φ (Phi)",
+        "incorrecta1": "1,4142135623730950488… √(2)",
+        "incorrecta2": "3.1415926535897932384… π (Pi)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿La siguiente expresión de fracciones continuas a que resultado tienden?",
+        "respuesta": "1,6180339887498948482… φ (Phi)",
+        "incorrecta1": "1,4142135623730950488… √(2)",
+        "incorrecta2": "3.1415926535897932384… π (Pi)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿La siguiente expresión de fracciones continuas a que resultado tienden?",
+        "respuesta": "1,6180339887498948482… φ (Phi)",
+        "incorrecta1": "1,4142135623730950488… √(2)",
+        "incorrecta2": "3.1415926535897932384… π (Pi)",
+        "incorrecta3": "2.2360679774997896964… √(5)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos cuatro nueves (9×9+9)/9",
+        "respuesta": "10",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "7\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos cuatro nueves (99-9)/9",
+        "respuesta": "10",
+        "incorrecta1": "9",
+        "incorrecta2": "8",
+        "incorrecta3": "7\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estas cinco cifras iguales 33×3+(3/3)",
+        "respuesta": "100",
+        "incorrecta1": "333",
+        "incorrecta2": "11",
+        "incorrecta3": "5\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres treses 33-3",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres seis (6×6)-6",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula a estos tres cincos (5×5)+5",
+        "respuesta": "30",
+        "incorrecta1": "31",
+        "incorrecta2": "29",
+        "incorrecta3": "28\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 10 con cuatro nueves",
+        "respuesta": "(9x9+9)/9 ",
+        "incorrecta1": "9+9+9+9",
+        "incorrecta2": "9-9+(9x9)",
+        "incorrecta3": "(9x9)/(9x9)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 10 con cuatro nueves",
+        "respuesta": "(99-9)/9",
+        "incorrecta1": "9+9+9+10",
+        "incorrecta2": "9-9+(9x9)",
+        "incorrecta3": "(9x9)/(9x9)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 100 con cinco cifras iguales",
+        "respuesta": "111-11",
+        "incorrecta1": "55+55*5",
+        "incorrecta2": "22*2*2+2",
+        "incorrecta3": "33x3x(3/3)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 100 con cinco cifras iguales",
+        "respuesta": "33 x 3 + (3/3) ",
+        "incorrecta1": "55 + 55 x 5",
+        "incorrecta2": "22 x 2 x 2 x 2",
+        "incorrecta3": "33 x 3 x (3/3)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 12 con cinco cifras iguales",
+        "respuesta": "((44-4)/4) + √(4)",
+        "incorrecta1": "(√(2)^2) x 2 x 2 x 2",
+        "incorrecta2": "√(4) x ((44 - 4)/4)",
+        "incorrecta3": "(6 x 6) - 6 - (6/6)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Forma correcta de escribir al 20 con cinco cifras iguales",
+        "respuesta": "√(4) x ((44 - 4)/4)",
+        "incorrecta1": "(√(4) + 4 x 4) + 4",
+        "incorrecta2": "5 + 5 + 5 + 5 + 5",
+        "incorrecta3": "(6 x 6) - 6 - (6/6)\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 38 ¿Qué numeros son?",
+        "respuesta": "1, 1 y 36",
+        "incorrecta1": "1, 3 y 12",
+        "incorrecta2": "19, 10 y 9",
+        "incorrecta3": "8, 11 y 19\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 16 ¿Qué numeros son?",
+        "respuesta": "1,3 y 12",
+        "incorrecta1": "1, 3 y 13",
+        "incorrecta2": "19, 10 y 9",
+        "incorrecta3": "8, 11 y 19\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 13 ¿Qué numeros son?",
+        "respuesta": "1,6 y 6",
+        "incorrecta1": "9,1 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 11 ¿Qué numeros son?",
+        "respuesta": "2,3 y 6",
+        "incorrecta1": "10,2 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 21 ¿Qué numeros son?",
+        "respuesta": "1,2 y 18",
+        "incorrecta1": "10,10 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 14 ¿Qué numeros son?",
+        "respuesta": "1,4 y 9 ",
+        "incorrecta1": "10,2 y 1",
+        "incorrecta2": "7,6 y 1",
+        "incorrecta3": "4,6 y 1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 13 ¿Qué numeros son?",
+        "respuesta": "2,2 y 9",
+        "incorrecta1": "10,2 y 1",
+        "incorrecta2": "2,3 y 6",
+        "incorrecta3": "4,6 y 1\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se expresa a 36 como producto de tres números naturales y la suma de estos tres da 10 ¿Qué numeros son?",
+        "respuesta": "3,3 y 4",
+        "incorrecta1": "1, 3 y 12",
+        "incorrecta2": "19, 10 y 9",
+        "incorrecta3": "8, 11 y 19\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Calcula 4+5+6+7+8=9+10+11",
+        "respuesta": "30",
+        "incorrecta1": "20",
+        "incorrecta2": "100",
+        "incorrecta3": "31\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Los numeros que pueden escribirse como la razon de dos enteros se denominan... ",
+        "respuesta": "Racionales",
+        "incorrecta1": "Enteros",
+        "incorrecta2": "Imaginarios",
+        "incorrecta3": "Compuestos\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Entre dos numeros reales siempre existira otro numero real ¿Qué significa esto?",
+        "respuesta": "Que los numeros son infinitos",
+        "incorrecta1": "Que hay un error en las matematicas",
+        "incorrecta2": "Nadie sabe que significa (es un misterio)",
+        "incorrecta3": "Que por mucho que corramos nunca alcanzaremos la meta\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz Cuadrada de 7",
+        "respuesta": "2,64575131106459…",
+        "incorrecta1": "1,41421356237309…",
+        "incorrecta2": "3.14159265358979...",
+        "incorrecta3": "2.23606797749978...\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Raiz cuadrada de 11",
+        "respuesta": "3,3166247903554...",
+        "incorrecta1": "1,4142135623730…",
+        "incorrecta2": "3.141592653589...",
+        "incorrecta3": "1.732050807568…\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Dos ruedas están unidas por una correa transmisora. La primera tiene un radio de 25 cm y la segunda de 75 cm. Cuando la primera ha dado 300 vueltas, ¿cuántas vueltas habrá dado la segunda?",
+        "respuesta": "100",
+        "incorrecta1": "1000",
+        "incorrecta2": "18",
+        "incorrecta3": "49\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "¿Seis personas pueden vivir en un hotel durante 12 días por $792.000. ¿Cuánto costará el hotel de 15 personas durante ocho días?",
+        "respuesta": "$1.320.000",
+        "incorrecta1": "$15.000.000",
+        "incorrecta2": "$1.203.000",
+        "incorrecta3": "$8.927.000\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Con 12 botes conteniendo cada uno ½ kg de pintura se han pintado 90 m de verja de 80 cm de altura. Calcular cuántos botes de 2 kg de pintura serán necesarios para pintar una verja similar de 120 cm de altura y 200 metros de longitud.",
+        "respuesta": "10",
+        "incorrecta1": "5",
+        "incorrecta2": "19",
+        "incorrecta3": "11\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "11 obreros labran un campo rectangular de 220 m de largo y 48 de ancho en 6 días. ¿Cuántos obreros serán necesarios para labrar otro campo análogo de 300 m de largo por 56 m de ancho en cinco días?",
+        "respuesta": "21",
+        "incorrecta1": "22",
+        "incorrecta2": "20",
+        "incorrecta3": "19\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "a cuanto equivale ½ de hora en minutos",
+        "respuesta": "30",
+        "incorrecta1": "15",
+        "incorrecta2": "45",
+        "incorrecta3": "60\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Fraccion equivalente a 4/3",
+        "respuesta": "12/9",
+        "incorrecta1": "15/21",
+        "incorrecta2": "2/3",
+        "incorrecta3": "16/6\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "La hipotenusa es igual a la raiz de la suma de los catetos al cuadrado",
+        "respuesta": "Teorema de pitagoras",
+        "incorrecta1": "Teorema de Tales",
+        "incorrecta2": "Es incorrecto",
+        "incorrecta3": "Teorema del triangulin\r",
+        "imagen": "https://ichef.bbci.co.uk/news/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El algoritmo de euclides",
+        "respuesta": "Halla el MCD",
+        "incorrecta1": "Halla PI",
+        "incorrecta2": "Estaba errado",
+        "incorrecta3": "Desubre lo que piensas\r",
+        "imagen": "https://matematicasdesdecero.com/wp-content/uploads/2021/09/Euclides.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "La criba de eratosteles…",
+        "respuesta": "tiene relacion con los primos",
+        "incorrecta1": "Es un libro",
+        "incorrecta2": "Eso no existe",
+        "incorrecta3": "Es una conjetura\r",
+        "imagen": "https://i0.wp.com/www.actiludis.com/wp-content/uploads/2015/10/CRIBA.png?resize=562%2C289"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "la circunferencia de un círculo mantiene la misma relación respecto de su diámetro que la superficie del círculo respecto del cuadrado del radio.",
+        "respuesta": "π",
+        "incorrecta1": "Esa afirmacion es errada",
+        "incorrecta2": "Es una constante que equivale a 22/7",
+        "incorrecta3": "en el 2001 se encontro que equivale exactamente a 355/113\r",
+        "imagen": "https://educacion30.b-cdn.net/wp-content/uploads/2022/04/cursos-de-algebra.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "El nombre algebra tiene origen por",
+        "respuesta": "Al-Juarismi",
+        "incorrecta1": "Brahmagupta",
+        "incorrecta2": "Abu'l Wafa",
+        "incorrecta3": "Al-Battani\r",
+        "imagen": "https://educacion30.b-cdn.net/wp-content/uploads/2022/04/cursos-de-algebra.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "nacionalidad\"",
+        "respuesta": "Frances",
+        "incorrecta1": "Italiano",
+        "incorrecta2": "Colombiano",
+        "incorrecta3": "Mexicano\r"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Euclides, nacionalidad",
+        "respuesta": "Griego",
+        "incorrecta1": "Africano",
+        "incorrecta2": "Ruso",
+        "incorrecta3": "Chileno\r",
+        "imagen": "https://matematicasdesdecero.com/wp-content/uploads/2021/09/Euclides.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Sir Isaac Newton, nacionalidad",
+        "respuesta": "Ingles",
+        "incorrecta1": "Colombiano",
+        "incorrecta2": "Venezolano",
+        "incorrecta3": "Peruano\r",
+        "imagen": "https://okdiario.com/img/2016/10/10/isaac-newton-inventos-simples-complejos-a-655x368.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Sir Isaac Newton gran hecho",
+        "respuesta": "Descubrió el calculo en el siglo XVII",
+        "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
+        "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
+        "incorrecta3": "Comia mucho mani\r",
+        "imagen": "https://okdiario.com/img/2016/10/10/isaac-newton-inventos-simples-complejos-a-655x368.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Nacionalidad de Gottfried Leibniz",
+        "respuesta": "Alemán",
+        "incorrecta1": "Suecia",
+        "incorrecta2": "Colombia",
+        "incorrecta3": "China\r",
+        "imagen": "https://mejorconsalud.as.com/wp-content/uploads/2021/10/Gottfried-Leibniz-370x247.jpg?auto=webp&quality=30&width=750&crop=16:9,smart,safe"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Gottfried Leibniz, gran hecho",
+        "respuesta": "desscrubrió el calculo en el siglo 17",
+        "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
+        "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
+        "incorrecta3": "Comia mucho mani\r",
+        "imagen": "https://www.meteorologiaenred.com/wp-content/uploads/2021/04/biografia-de-Leibniz-768x576.jpeg.webp"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "seudónimo de Carl Gauss ",
+        "respuesta": "principe de los matematicos",
+        "incorrecta1": "La bestia del calculo",
+        "incorrecta2": "El Dios de los numeros",
+        "incorrecta3": "Ninguna es correcta\r",
+        "imagen": "https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2018/04/30040104/doodle-gauss-portada.jpg"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Leonad Euler nacionalidad",
+        "respuesta": "Suiza",
+        "incorrecta1": "Ruso",
+        "incorrecta2": "Alemania",
+        "incorrecta3": "Berlin\r",
+        "imagen": "https://lamenteesmaravillosa.com/wp-content/uploads/2019/04/rostro-leonhard-euler-1024x530.png?auto=webp&quality=45&width=1920&crop=16:9,smart,safe"
+    },
+    {
+        "categoria": "Matemática",
+        "pregunta": "Se fundó la teoria dos grafos",
+        "respuesta": "solucionando un problema que tenia siete puentes. ",
+        "incorrecta1": "Conectando algunos meridianos importantes",
+        "incorrecta2": "En el estudio de los numeros primos",
+        "incorrecta3": "Estudiando aquillas curvas que parecen rectas\r",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fish_graph.svg/1200px-Fish_graph.svg.png"
+    }
+]
